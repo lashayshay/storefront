@@ -1,0 +1,10 @@
+<!-- template with conditional statment to return 'name' var if passed from the render function in testing/views.py -->
+<html>
+    <body>
+        {% if name %}
+        <h1>Hello {{ name }}</h1>
+        {% else %}
+        <h1>Hello World</h1>
+        {% endif %}
+    </body>
+</html>

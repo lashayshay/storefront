@@ -1,0 +1,7 @@
+.DS_Store
+storefront/__pycache__/
+store/__pycache__/
+store/migrations/__pycache__/
+tags/__pycache__/
+tags/migrations/__pycache__/
+testing/migrations/__pycache__/

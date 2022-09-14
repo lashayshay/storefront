@@ -5,3 +5,6 @@ store/migrations/__pycache__/
 tags/__pycache__/
 tags/migrations/__pycache__/
 testing/migrations/__pycache__/
+testing/__pycache__/
+likes/migrations/__pycache__/
+likes/__pycache__/
